@@ -14,8 +14,6 @@
 🏥 Working on **healthcare systems** with high reliability  
 🎯 Goal: Become a **Technical Leader & System Architect**
 
----
-
 ## 🛠️ Tech Stack  
 
 ### 🚀 Frontend  
@@ -23,6 +21,24 @@
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,scss,tailwind,bootstrap" />
 </p>
 
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+- SQL Server  
+- MySQL  
+- MongoDB  
+- Firebase  
+
+### 🛠️ DevOps & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,azure,webpack,vite" />
+</p>
+
+- Azure DevOps  
+- CI/CD Pipelines  
+- npm, yarn, pnpm  
 ### ⚙️ Architecture  
 <p>
   <img src="https://skillicons.dev/icons?i=webpack" />
