@@ -1,112 +1,123 @@
-# 👋 Hi, I'm Muhammad Kahaf
+<h1 align="center">Hi 👋, I'm Muhammad Kahaf</h1>
+<h3 align="center">🚀 Senior Frontend Architect | Angular | Micro-Frontend Systems</h3>
 
-🚀 **Senior Frontend Architect | Angular & Micro-Frontend Systems**
-
-I specialize in building **scalable enterprise applications**, designing **micro-frontend architectures**, and creating **high-performance frontend systems**.
-
-- 💻 4+ years of experience in frontend & full-stack development  
-- ⚡ Expert in Angular, Signals, and reactive architecture  
-- 🧩 Built reusable component libraries & design systems  
-- 🏥 Working in healthcare systems with high reliability needs  
-- 🎯 Goal: Technical leadership & building systems at scale  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mK082004&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 What I Do
-
-- Architect **micro-frontend systems** using Module Federation  
-- Design **scalable frontend architectures**  
-- Optimize performance (bundle size, load time, state management)  
-- Build **enterprise-grade UI libraries**  
-- Mentor developers with **system-first thinking**
+## 🚀 About Me  
+💻 4+ years building **scalable enterprise applications**  
+⚡ Expert in **Angular Signals & Reactive Architecture**  
+🧩 Creator of reusable **component libraries & design systems**  
+🏥 Working on **healthcare systems** with high reliability  
+🎯 Goal: Become a **Technical Leader & System Architect**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-### 🚀 Frontend
-- Angular, React.js
-- TypeScript, JavaScript (ES6+)
-- HTML5, CSS3, SCSS, Tailwind, Bootstrap, Material UI
+### 🚀 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,scss,tailwind,bootstrap" />
+</p>
 
-### ⚙️ Architecture & State
-- Angular Signals, RxJS, NgRx  
-- Nx Monorepos  
+### ⚙️ Architecture  
+<p>
+  <img src="https://skillicons.dev/icons?i=webpack" />
+</p>
+
+- Angular Signals ⚡  
+- RxJS / NgRx  
+- Nx Monorepo  
 - Micro-Frontend Architecture  
-- Design Systems & Component Libraries  
-
-### 🔧 Backend & APIs
-- .NET Core, Node.js, Express.js  
-- PHP (Laravel), GraphQL  
-
-### 🛠️ Tools & DevOps
-- Git, GitHub, Azure DevOps  
-- Webpack, Vite  
-- npm, yarn, pnpm  
-
-### 🗄️ Databases
-- SQL Server, MySQL, MongoDB, Firebase  
+- Module Federation  
 
 ---
 
-## 🔥 Key Projects
+## 🔥 Featured Projects  
 
-### 🧩 Angular Base Library (ng-mat-plus)
+### 🧩 ng-mat-plus (Angular Library)  
+<p>
+  <img src="https://img.shields.io/badge/Angular-Library-red?style=for-the-badge&logo=angular" />
+  <img src="https://img.shields.io/npm/v/ng-mat-plus?style=for-the-badge" />
+</p>
+
 - 50+ reusable components  
-- Advanced data tables & dynamic dialogs  
-- Reduced component complexity by 40%  
+- Advanced tables & dynamic dialogs  
+- 🚀 Reduced complexity by 40%  
 
 🔗 https://www.npmjs.com/package/ng-mat-plus  
 🔗 https://ng-mat-plus.web.app  
 
 ---
 
-### 🌐 Multi-Framework Micro-Frontend Platform
-- Angular + React + Next.js integration  
-- Module Federation architecture  
-- Reduced bundle size by 35%  
+### 🌐 Micro-Frontend Platform  
+<p>
+  <img src="https://img.shields.io/badge/Micro--Frontend-Architecture-blue?style=for-the-badge" />
+</p>
+
+- Angular + React + Next.js  
+- Webpack Module Federation  
+- 📦 Reduced bundle size by 35%  
 
 🔗 https://mfehost.netlify.app/  
 
 ---
 
-### ⚡ mklib-org (Framework-Agnostic Library)
-- Core JS library with Angular/React wrappers  
+### ⚡ mklib-org  
+<p>
+  <img src="https://img.shields.io/badge/Framework-Agnostic-black?style=for-the-badge" />
+</p>
+
+- Core JS + Angular/React wrappers  
 - Zero-coupling architecture  
-- Cross-framework compatibility  
 
 🔗 https://github.com/mklib-org  
 
 ---
 
-## 📊 Achievements
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mK082004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mK082004&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Impact  
+
+🚀 Reduced release cycles by **60%**  
+⚡ Improved performance by **40%**  
+📦 Reduced bundle size by **45%**  
+🧩 Reduced code duplication by **50%**
+
+---
+
+## 🏆 Achievements  
 
 🏆 Jury Award Winner — Aptech Techwiz IT Global Competition  
-
-- Built real-time hotel booking system  
-- Achieved **95+ Lighthouse performance score**  
-- Optimized performance with lazy loading & efficient DOM handling  
+⚡ 95+ Lighthouse Performance Score  
 
 ---
 
-## 📈 Impact Highlights
+## 📫 Connect With Me  
 
-- 🚀 Reduced release cycles by **60%** via micro-frontends  
-- ⚡ Improved performance by **40%** using signal-based architecture  
-- 📦 Reduced bundle size by **45%**  
-- 🧩 Built component libraries reducing duplication by **50%**  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-kahaf-5267b2356/  
-- 🧑‍💻 GitHub: https://github.com/mK082004  
-- 📦 npm: https://www.npmjs.com/~muhammadkahaf  
-- 📧 Email: muhammadkahaf08@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/muhammad-kahaf-5267b2356">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:muhammadkahaf08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.npmjs.com/~muhammadkahaf">
+    <img src="https://img.shields.io/badge/NPM-orange?style=for-the-badge&logo=npm" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-
-I don't just build components… I design **systems that scale** 🚀
+## ⚡ Fun Fact  
+I don’t just build components… I design **systems that scale** 🚀
