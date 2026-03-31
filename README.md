@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Mk
 
-<!--
-**Muhammad-Kahaf/Muhammad-Kahaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Angular Developer
+- 🔥 Working with Signals & Reactive Architecture
+- 📍 Based in Pakistan
+- 🎯 Goal: Build scalable systems & my own startup
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend: Angular, TypeScript, RxJS
+- Backend: .NET Web API
+- Tools: Git, VS Code, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## 🔥 Projects
+- 🧩 Custom Angular Table Library
+- 📊 Funnel Chart with Dynamic Scaling
+- ⚡ Signal-based Reactive Forms System
+
+## 📫 Contact Me
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
